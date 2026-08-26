@@ -1,3 +1,0 @@
-a2852e8 - Student, 0 seconds ago : Task 3: Add fairness reflection and ethical guidelines
-5f75b25 - Student, 0 seconds ago : Task 2: Add cleaned dataset and data integrity report
-63a67cd - Student, 0 seconds ago : Task 1: Add combined dataset and business query results
