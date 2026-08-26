@@ -1,3 +1,0 @@
-Commit: 648518a | Task 3: Performed fairness evaluation and finalized submission | Sat Aug 22 21:12:09 2026 +0000
-Commit: e6c5ace | Task 2: Applied data cleaning and handled integrity issues | Sat Aug 22 21:12:08 2026 +0000
-Commit: fcdddc7 | Task 1: Completed data gathering and source merging | Sat Aug 22 21:12:08 2026 +0000
